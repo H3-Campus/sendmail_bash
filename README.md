@@ -1,10 +1,3 @@
-Voici un exemple de fichier `README.md` et `LICENSE.txt` pour votre projet GitHub.
-
-### `README.md`
-
-```markdown
-
-
 # Script d'envoi d'email avec msmtp
 
 Ce script Bash permet d'envoyer des emails paramétrables en utilisant `msmtp`. Il est conçu pour être facilement intégré dans des scripts automatisés nécessitant des notifications par email.
@@ -63,20 +56,8 @@ Les actions du script sont journalisées dans `/var/log/script_email.log`. Vous 
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE.txt) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](licence.txt) pour plus de détails.
 
 ## Contributions
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
-
-
-```
-
-### `LICENSE.txt`
-
-[Licence.txt](licence.txt)
-
-```
-
-Ces fichiers fournissent une documentation claire et une licence pour votre projet, facilitant ainsi son utilisation et sa contribution par d'autres développeurs. Vous pouvez les adapter selon vos besoins spécifiques.

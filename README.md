@@ -19,7 +19,7 @@ Ce script Bash permet d'envoyer des emails paramétrables en utilisant `msmtp`. 
 1. Clonez ce dépôt sur votre machine locale :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-depot.git
+    git clone https://github.com/H3-Campus/sendmail_bash/sendmail_bash.git
     cd votre-depot
     ```
 
